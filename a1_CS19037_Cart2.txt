@@ -1,0 +1,4 @@
+[['maria'], [['shirt', 250, 1]]]
+[['maria'], [['lipstick', 250, 1], ['coat', 1800, 1]]]
+[['maria'], [['facewash', 300, 2]]]
+[['maria'], [['cream', 400, 1]]]
